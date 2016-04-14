@@ -1,0 +1,28 @@
+name: Sunshine Gulag
+favicon: null
+layout_spectrum: 0.20631707669235766
+typography_spectrum: 0.11428739782422781
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4002448336686939
+  lightness: 0.32324579101987183
+  saturation: 0.16676117852330208
+  rhythmicContrast: 0.5562209435738623
+purpose: []
