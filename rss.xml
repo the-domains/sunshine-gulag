@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Sunshine Gulag]]></title>
         <description><![CDATA[Sunshine Gulag]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sunshine-gulag/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 07:17:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 02 Sep 2016 07:52:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sunshine-gulag/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d14a11ca-b673-4013-8b26-0bcb231833ea.jpg">]]></description>
-            <link>undefined356dd82b-295e-4fdb-9301-7a0091ff65cb/index.html</link>
+            <title><![CDATA[Basic Lion Stuff]]></title>
+            <description><![CDATA[<article><h1>Basic Lion Stuff</h1><p>You never know when a lion may come in handy. That’s where a lion may come in handy.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d14a11ca-b673-4013-8b26-0bcb231833ea.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sunshine-gulag/356dd82b-295e-4fdb-9301-7a0091ff65cb/index.html</link>
             <guid isPermaLink="false">356dd82b-295e-4fdb-9301-7a0091ff65cb</guid>
-            <pubDate>Thu, 14 Apr 2016 07:16:51 GMT</pubDate>
+            <pubDate>Fri, 02 Sep 2016 07:52:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
