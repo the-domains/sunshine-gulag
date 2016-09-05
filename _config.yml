@@ -1,19 +1,4 @@
-name: Sunshine Gulag
-favicon: null
-layout_spectrum: 0.20631707669235766
 typography_spectrum: 0.11428739782422781
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -25,4 +10,20 @@ color:
   lightness: 0.32324579101987183
   saturation: 0.16676117852330208
   rhythmicContrast: 0.5562209435738623
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.20631707669235766
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Sunshine Gulag
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: T0RQue
 purpose: []
